@@ -1,2 +1,2 @@
 # Travelling
-first_progect
+first_project
